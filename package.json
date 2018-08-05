@@ -1,0 +1,22 @@
+{
+  "name": "bytetech",
+  "version": "2.1.0",
+  "description": "-- AWESOMENESS --",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "get-youtube-id": "^1.0.0",
+    "simple-youtube-api": "^5.0.2",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.20.3"
+    "queue": "^4.4.2"
+  },
+  "engines": {
+    "node": "8.4.0"
+  }
+}
